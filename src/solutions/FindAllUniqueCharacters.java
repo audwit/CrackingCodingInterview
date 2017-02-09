@@ -27,8 +27,6 @@ public class FindAllUniqueCharacters
 			System.out.println("All of the characters are unique");
 		else
 			System.out.println("There are duplicate characters");
-//		int val = inputString.charAt(0);
-//		System.out.println(val);
 	}
 
 }
