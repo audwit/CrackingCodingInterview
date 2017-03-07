@@ -1,7 +1,8 @@
 package solutions;
 
 import java.util.Scanner;
-
+//1 7 Write an algorithm such that if an element in an MxN matrix is 0, its entire row and
+//column is set to 0
 public class Problem1Point7
 {
 	
