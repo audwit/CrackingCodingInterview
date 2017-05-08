@@ -1,4 +1,4 @@
-package solutions;
+package arraysAndStringChapter1;
 
 import java.util.Scanner;
 

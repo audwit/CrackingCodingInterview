@@ -1,4 +1,4 @@
-package solutions;
+package arraysAndStringChapter1;
 
 import java.util.Scanner;
 //1.8 Assume you have a method isSubstring which checks if one word is a substring of
